@@ -2,7 +2,7 @@ table{
 			background-color:rgb(255, 255, 0);
 }
 table,	td,tr,th{
-			border:px solid rgb(0, 0, 0);
+			border: 1px solid rgb(0, 0, 0);
 		}
 		 th,td{
 			 padding :8px;
